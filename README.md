@@ -6,18 +6,33 @@
 
 # Download Glow
 
-Download: [Glow Latest Version](https://github.com/roines45/glow/releases/latest)
+Download: [Glow Latest Version](https://github.com/LeBazarDeBryan/glow-old/releases/latest)
 
 # Supported Languages
 
+- Chinese
 - English
+- French
+- German
+- Greek
+- Hindi
+- Hungarian
+- Indonesian
+- Italian
+- Japanese
+- Korean
+- Polish
+- Portuguese
+- Russian
+- Spanish
+- Swedish
 - Turkish
+- Ukrainian
 
 # Supported Themes
 
 - Light Theme
 - Dark Theme
-- Nord Theme
 
 # Supported Operating Systems
 
@@ -27,6 +42,7 @@ Download: [Glow Latest Version](https://github.com/roines45/glow/releases/latest
 # Supported Architectures
 
 - 64 Bit (x64)
+- 86 Bit (x86)
 - ARM64 (ARM CPU)
 
 # System Requirements
